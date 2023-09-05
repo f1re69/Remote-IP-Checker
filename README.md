@@ -15,14 +15,6 @@ Le score de fraude est fourni par Scamalytics et varie généralement de 0 à 10
 - **51-75** : Risque élevé. Une investigation est fortement recommandée.
 - **76-100**: Risque très élevé. Une action immédiate est nécessaire.
 
-## Note Importante
-
-Bien que ce script puisse aider à identifier les connexions suspectes, il ne remplace pas un véritable logiciel de sécurité ou un pare-feu. Pour une protection complète, il est toujours recommandé d'utiliser des solutions de sécurité dédiées.
-
----
-
-N'hésitez pas à intégrer ces informations dans votre `README.md` pour clarifier l'utilité du script et fournir des recommandations basées sur les scores de fraude.
-
 ## Installation
 
 Pour installer les dépendances nécessaires, exécutez :
